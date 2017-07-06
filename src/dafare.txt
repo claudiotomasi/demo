@@ -1,0 +1,3 @@
+Calcolo frequenze lettere successive (matrice di transizione)
+matrice sensoriale noi
+
