@@ -4,4 +4,4 @@ gunicorn==19.6.0
 psycopg2==2.6.2
 whitenoise==2.0.6
 Flask
-jinja
+jinja==2-2.9.6
